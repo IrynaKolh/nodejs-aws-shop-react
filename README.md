@@ -1,5 +1,15 @@
 # React-shop-cloudfront
 
+## Manual Deployment
+Link to CloudFront website: https://d385lnq5i09mdh.cloudfront.net
+Link to S3 bucket website: http://ikol-aws-shop-react.s3-website-us-east-1.amazonaws.com S3-website shows 403 Access Denied error.
+
+## Automated Deployment
+Link to CloudFront website: https://d2pmrq5v0ku831.cloudfront.net/
+Link to S3 bucket website: http://auto-deploy-aws-shop-react.s3-website.us-east-2.amazonaws.com S3-website shows 403 Access Denied error.
+
+
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
